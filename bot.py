@@ -484,7 +484,11 @@ async def main2():
 
 
 # Otherwise
-asyncio.run(main2())
+#asyncio.run(main2())
+def main():
+    print('hey')
+    sleep(2)
+ 
 
 
 
