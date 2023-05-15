@@ -8,4 +8,5 @@ def ma():
    requests.patch(s,json={'y':i})
    i+=1
    time.sleep(2)
+ma()
   
